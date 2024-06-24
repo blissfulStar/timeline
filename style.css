@@ -59,6 +59,7 @@ body::before {
 .timeline ul li {
     padding: 20px;
     background-color: #1e1f22;
+    /*opacity: 0.5;*/
     color: white;
     border-radius: 10px;
     margin-bottom: 20px;
